@@ -28,7 +28,7 @@ Faculty::Faculty(int i, string n, string l, string d) // constructor that takes 
 Faculty::~Faculty()
 {
     delete [] advIDArr;
-};
+}
 
 void Faculty::printFaculty() // prints out faculty info in terminal line by line 
 {
