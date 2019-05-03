@@ -8,7 +8,7 @@ Section 1
 I was unable to include Write to File and Rollback functions.   
 
 1. Code + Notes written in CPSC 350 class  
-2. I asked Corey Mrcea a few questions  
+2. I asked Corey Mrcea and Mark Schneider a few questions  
 3. https://en.cppreference.com/w/cpp/language/switch  
 4. https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/  
 5. http://www.cplusplus.com/forum/general/1551/  
